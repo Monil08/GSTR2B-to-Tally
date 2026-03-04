@@ -48,7 +48,7 @@ Open `http://localhost:8000/docs` in your browser after starting the tool.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gstr2b-to-tally.git
+git clone https://github.com/Monil08/gstr2b-to-tally.git
 cd gstr2b-to-tally
 ```
 
