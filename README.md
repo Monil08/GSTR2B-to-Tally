@@ -168,4 +168,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Made with ❤️ by Monil Shah*
+*Made with AI by Monil Shah*
